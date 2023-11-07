@@ -173,6 +173,13 @@ export {
 } from './typeahead/typeahead.module';
 export { Placement } from './util/positioning';
 
+export { PopupService } from './util/popup';
+export { listenToTriggers } from './util/triggers';
+export { ngbAutoClose } from './util/autoclose';
+export { ngbPositioning } from './util/positioning';
+export { isString } from './util/util';
+export { addPopperOffset } from './util/positioning-util';
+
 export { NgbConfig } from './ngb-config';
 
 const NGB_MODULES = [
