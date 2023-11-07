@@ -1,7 +1,7 @@
 {
-  "name": "@ng-bootstrap/ng-bootstrap",
+  "name": "@uwpro/ng-bootstrap",
   "version": "$NG_BOOTSTRAP_VERSION",
-  "description": "Angular powered Bootstrap",
+  "description": "Angular powered Bootstrap for UWPro. Forked from @ng-bootstrap/ng-bootstrap",
   "keywords": [
     "angular",
     "bootstrap",
@@ -26,16 +26,16 @@
     "tooltip",
     "typeahead"
   ],
-  "author": "https://github.com/ng-bootstrap/ng-bootstrap/graphs/contributors",
+  "author": "https://github.com/npnsap/ng-bootstrap/graphs/contributors",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ng-bootstrap/ng-bootstrap.git"
+    "url": "git+https://github.com/npnsap/ng-bootstrap.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ng-bootstrap/ng-bootstrap/issues"
+    "url": "https://github.com/npnsap/ng-bootstrap/issues"
   },
-  "homepage": "https://github.com/ng-bootstrap/ng-bootstrap#readme",
+  "homepage": "https://github.com/npnsap/ng-bootstrap#readme",
   "dependencies": {
     "tslib": "^2.3.0"
   },
