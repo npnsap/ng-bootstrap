@@ -178,7 +178,14 @@ export { listenToTriggers } from './util/triggers';
 export { ngbAutoClose } from './util/autoclose';
 export { ngbPositioning } from './util/positioning';
 export { addPopperOffset } from './util/positioning-util';
-export { isString, isInteger, isNumber, isDefined, isPromise, toInteger, toString } from './util/util';
+
+export { isString } from './util/util';
+export { isInteger } from './util/util';
+export { isNumber } from './util/util';
+export { isDefined } from './util/util';
+export { isPromise } from './util/util';
+export { toString } from './util/util';
+export { toInteger } from './util/util';
 
 export { NgbConfig } from './ngb-config';
 
