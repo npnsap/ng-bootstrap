@@ -178,6 +178,7 @@ export { listenToTriggers } from './util/triggers';
 export { ngbAutoClose } from './util/autoclose';
 export { ngbPositioning } from './util/positioning';
 export { addPopperOffset } from './util/positioning-util';
+export { ngbFocusTrap } from './util/focus-trap';
 
 export { isString } from './util/util';
 export { isInteger } from './util/util';
